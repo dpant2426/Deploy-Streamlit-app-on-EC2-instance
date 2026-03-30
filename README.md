@@ -29,7 +29,7 @@ sudo apt install git curl unzip tar make sudo vim wget -y
 ```bash
 git clone "Your-repository"
 ```
-
+if private repo https://www.youtube.com/watch?v=cEyn7RHu7-c
 ```bash
 sudo apt install python3-pip
 ```
